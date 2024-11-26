@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQG-SHASDef47w/article-cover_image-shrink_720_1280/0/1694384010548?e=2147483647&v=beta&t=tcxACcj52Ba0pcG1RKUw_hvV_274P3rtqpMH4LE5iYw">
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 - 🔭 I’m currently working on [WorkTrot](https://learn.icrosst.com/), an educational platform project.
 
