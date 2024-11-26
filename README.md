@@ -1,4 +1,4 @@
-![Software Development](https://media.istockphoto.com/id/1803992649/vector/software-development-coding-process-concept-programming-testing-cross-platform-code-app-on.jpg?s=612x612&w=0&k=20&c=9JX_Uhk0YSIqakQEXiSjo5NutvD4C8XOGIMc1cGRhiM=)
+
 <h1 align="center">Hi 👋, I'm Devansh Gupta</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
