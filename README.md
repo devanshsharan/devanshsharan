@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [WorkTrot](https://learn.icrosst.com/)
+- 🔭 I’m currently working on [WorkTrot](https://learn.icrosst.com/), an educational platform project.
 
-- 🌱 I’m currently learning **AWS,Docker,Kubernetes**
+- 🌱 I’m currently learning **AWS, Docker, Kubernetes**
 
 - 💬 Ask me about **SpringBoot, Mern**
 
-- 📫 How to reach me **sharan2732@gmail.com**
+- 📫 How to reach me: *[Email Me](mailto:sharan2732@gmail.com)*
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nSACOfcH2BCyWi_MltyPFKBQ-7s8YTxu/view?usp=sharing](https://drive.google.com/file/d/1nSACOfcH2BCyWi_MltyPFKBQ-7s8YTxu/view?usp=sharing)
+- 📄 Check out my resume: [View Resume](https://drive.google.com/file/d/1nSACOfcH2BCyWi_MltyPFKBQ-7s8YTxu/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
