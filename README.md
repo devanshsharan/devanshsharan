@@ -5,16 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [WorkTrot](https://learn.icrosst.com/)
-
-- 🌱 I’m currently learning **AWS,Docker,Kubernetes**
-
-- 💬 Ask me about **SpringBoot, Mern**
-
-- 📫 How to reach me **sharan2732@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nSACOfcH2BCyWi_MltyPFKBQ-7s8YTxu/view?usp=sharing](https://drive.google.com/file/d/1nSACOfcH2BCyWi_MltyPFKBQ-7s8YTxu/view?usp=sharing)
-
+- 🔭 I’m currently working on **[WorkTrot](https://learn.icrosst.com/)**
+- 🌱 I’m currently learning **AWS, Docker, Kubernetes**
+- 💬 Ask me about **Spring Boot, MERN Stack**
+- 📫 How to reach me: **sharan2732@gmail.com**
+- 📄 Check out my resume: [View Resume](https://drive.google.com/file/d/1nSACOfcH2BCyWi_MltyPFKBQ-7s8YTxu/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/devansh1356" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devansh1356" height="30" width="40" /></a>
