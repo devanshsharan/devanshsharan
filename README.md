@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Devansh Gupta</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<p style="margin-top: 200px;"></p>
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQG-SHASDef47w/article-cover_image-shrink_720_1280/0/1694384010548?e=2147483647&v=beta&t=tcxACcj52Ba0pcG1RKUw_hvV_274P3rtqpMH4LE5iYw">
+<img align="right" alt="Coding" width="400" 
+     src="https://media.licdn.com/dms/image/D4D12AQG-SHASDef47w/article-cover_image-shrink_720_1280/0/1694384010548?e=2147483647&v=beta&t=tcxACcj52Ba0pcG1RKUw_hvV_274P3rtqpMH4LE5iYw" 
+     style="margin-top: 100px;">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
