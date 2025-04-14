@@ -11,7 +11,7 @@
 
 
 
-- 🔭 I’m currently working on [WorkTrot](https://learn.icrosst.com/), an educational platform project.
+
 
 - 🌱 I’m currently learning **AWS, Docker, Kubernetes**
 
